@@ -1,0 +1,89 @@
+.container {
+    border: 3px solid black;
+  width: 25%;
+  margin: 0 auto;
+  background: black;
+  color: #681313;
+  height: 480px;
+  position: relative;
+  left: -450px;
+  background-size: 300px;
+    width: 300px;
+  
+}
+#paragraph1 {
+  font-size: 12px;
+  width: 200px;
+  font-size: 8px;
+  position: relative;
+  left: 35px;
+  margin-top: 30px;
+  color: white;
+}
+.hudlos {
+  position: relative;
+  left: 26px;
+  top: -35px;
+  font-size: 23px;
+  font-family: Georgia;
+  width: 270px;
+  
+}
+.position2 {
+  position: relative;
+  left: 245px;
+  bottom: 65px;
+  
+}
+#narcotics {
+  color: white;
+  font-size: 14px;
+  width: 250px;
+  position: relative;
+  bottom: -35px;
+  left: 30px;
+  top: -35px;
+}
+.lines {
+  position: relative;
+  left: 40px;
+  bottom: -25px;;
+  border-top: 1px solid white;
+  border-bottom: 20px solid white;
+  border-right: 15px solid white;
+  border-left: 15px solid white;
+  
+}
+.icon {
+  position: relative;
+  left: 505px;
+  bottom: 80px;
+    color: white;
+  border: 1px solid white;
+  background: #0B204D;
+  width: 5%;
+  font-size: 10px;
+ 
+}
+#blue {
+  color: lightblue;
+}
+#blue {
+  text-align: center;
+  letter-spacing: 2px;
+}
+#posit {
+  text-align: center;
+  position: relative;
+  bottom: -5px;
+}
+body {
+  background: grey;
+}
+form {
+  position: relative;
+    left: 531px;
+  bottom: 55px;
+}
+
+
